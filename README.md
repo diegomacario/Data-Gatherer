@@ -10,10 +10,8 @@ Two-way communication between the Nucleo board and the smartphone was achieved o
 
 The final system allows for temperature and tilt measurements to be sent from the Discovery board to the smartphone, which displays these values on its screen. The Discovery board also supports a double tap function which raises a notification on the smartphone when a double tap is detected, and the smartphone has controls for the LEDs included on the Discovery board.
 
-The final system, including all of its components and connections, is illustrated below:
+The final system, including all of its components and connections, is illustrated below. For a detailed description of the system, see [this](https://github.com/diegomacario/Data-Gatherer/blob/master/documentation/data_gatherer.pdf) document.
 
 <p align="center">
   <img src="https://github.com/diegomacario/Data-Gatherer/blob/master/readme_images/complete_system.png"/>
 </p>
-
-For a full description of the system, see [this](https://github.com/diegomacario/Data-Gatherer/blob/master/documentation/data_gatherer.pdf) document.
