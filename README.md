@@ -17,5 +17,5 @@ The final system allows for temperature and tilt measurements to be sent from th
 The final system, including all of its components and connections, is illustrated below. For a detailed description, see [this](https://github.com/diegomacario/Data-Gatherer/blob/master/documentation/data_gatherer.pdf) document.
 
 <p align="center">
-  <img src="https://github.com/diegomacario/Data-Gatherer/blob/master/readme_images/complete_system2.PNG"/>
+  <img src="https://github.com/diegomacario/Data-Gatherer/blob/master/readme_images/complete_system.png"/>
 </p>
