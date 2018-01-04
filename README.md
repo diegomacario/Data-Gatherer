@@ -2,6 +2,10 @@
 
 A real-time temperature and tilt measurement device.
 
+<p align="center">
+  <img src="https://github.com/diegomacario/Data-Gatherer/blob/master/readme_images/early_prototype4.PNG"/>
+</p>
+
 ## Summary
 
 The goal of this project was to design a multicomponent system to explore the interactions between embedded peripherals and a smartphone device. This involved developing an interface to support the communication between an [STM32F4 Discovery board](http://www.st.com/en/evaluation-tools/stm32f4discovery.html), an [STM32F401RE Nucleo board](http://www.st.com/en/evaluation-tools/nucleo-f401re.html) and an Android smartphone.
