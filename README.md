@@ -3,7 +3,7 @@
 A real-time temperature and tilt measurement device.
 
 <p align="center">
-  <img src="https://github.com/diegomacario/Data-Gatherer/blob/master/readme_images/early_prototype4.PNG"/>
+  <img src="https://github.com/diegomacario/Data-Gatherer/blob/master/readme_images/early_prototype.png"/>
 </p>
 
 ## Summary
