@@ -19,3 +19,7 @@ The final system, including all of its components and connections, is illustrate
 <p align="center">
   <img src="https://github.com/diegomacario/Data-Gatherer/blob/master/readme_images/complete_system.png"/>
 </p>
+
+## Contributors
+
+This project was completed by four friends: Saki Kajita, Stephen Cambridge, Wen Bo Zhang and myself!
